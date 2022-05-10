@@ -18,12 +18,12 @@
         <repository>
             <id>github</id>
             <name>GitHub cmani97 Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/cmani97/semantic-java</url>
+            <url>https://maven.pkg.github.com/cmani97/mani-test1</url>
         </repository>
     </distributionManagement>
     <scm>
-        <connection>scm:git:git://github.com/cmani97/semantic-java.git</connection>
-        <developerConnection>scm:git:git@github.com:cmani97/semantic-java.git</developerConnection>
+        <connection>scm:git:git://github.com/cmani97/mani-test1.git</connection>
+        <developerConnection>scm:git:git@github.com:cmani97/mani-test1.git</developerConnection>
         <url>https://github.com/cmani97/semantic-java/tree/master/</url>
     </scm>
     <developers>
@@ -31,7 +31,7 @@
             <name>Mani</name>
             <email>cmani09797@gmail.com</email>
             <organization>com.github.cmani097</organization>
-            <organizationUrl>https://github.com/cmani97/semantic-java</organizationUrl>
+            <organizationUrl>https://github.com/cmani97/mani-test1</organizationUrl>
         </developer>
     </developers>
     <build>

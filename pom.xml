@@ -18,7 +18,7 @@
         <repository>
             <id>github</id>
             <name>GitHub cmani97 Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/cmani97/mani-test1</url>
+            <url>https://maven.pkg.github.com/cmani97/test-platform</url>
         </repository>
     </distributionManagement>
     <scm>
@@ -31,7 +31,7 @@
             <name>Mani</name>
             <email>cmani09797@gmail.com</email>
             <organization>com.github.cmani097</organization>
-            <organizationUrl>https://github.com/cmani97/mani-test1</organizationUrl>
+            <organizationUrl>https://github.com/cmani97</organizationUrl>
         </developer>
     </developers>
     <profiles>
@@ -47,16 +47,9 @@
                 <repository>
                     <id>github</id>
                     <name>GitHub cmani97 Apache Maven Packages</name>
-                    <url>https://maven.pkg.github.com/cmani97/mani-test1</url>
+                    <url>https://maven.pkg.github.com/cmani97/test-platform</url>
                 </repository>
             </distributionManagement>
-<!--            <distributionManagement>-->
-<!--                <repository>-->
-<!--                    <id>github</id>-->
-<!--                    <name>GitHub Packages</name>-->
-<!--                    <url>https://maven.pkg.github.com/cmani097/mani-test1</url>-->
-<!--                </repository>-->
-<!--            </distributionManagement>-->
         </profile>
         <profile>
             <id>github-releases</id>
@@ -64,7 +57,7 @@
                 <repository>
                     <id>github</id>
                     <name>GitHub Packages</name>
-                    <url>https://maven.pkg.github.com/cmani097/mani-test1</url>
+                    <url>https://maven.pkg.github.com/cmani097/test-platform</url>
                 </repository>
             </repositories>
         </profile>
